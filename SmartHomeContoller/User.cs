@@ -8,5 +8,6 @@ namespace SmartHomeContoller
 {
     internal class User
     {
+
     }
 }
