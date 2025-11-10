@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartHomeContoller
 {
-    internal class SmartLight
+    internal class SmartLight : SmartDevice
     {
 
     }
